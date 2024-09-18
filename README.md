@@ -37,7 +37,7 @@ SPDX-License-Identifier: GPL-3.0-only
 
 <div align="center">
 <br/>
-<b>Ejercicios Resueltos</b> 📝 y <b>Apuntes</b> 📚 para las asignaturas de <b>Programación I y II</b> del <i>Grao en Enxeñaría Informática</i> de la <i>Universidade da Coruña</i> en el curso 2023/24. 💻🎓
+<b>Ejercicios Resueltos</b> 📝 y <b>Apuntes</b> 📚 para las asignaturas de <b>Programación I y II</b> del <i>Grao en Enxeñaría Informática</i> de la <i>Universidade da Coruña</i> en el curso 2024/2025. 💻🎓
 <br/>
 </div>
 
